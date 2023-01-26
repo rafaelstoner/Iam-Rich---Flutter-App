@@ -1,16 +1,15 @@
 # iamrich
+<div align="center">
+<img src="/app.PNG"></img>
+</div>
+A new simple Flutter project.
 
-A new Flutter project.
+## I am Rich App
 
-## Getting Started
+This App displays a diamond image on the screen
 
-This project is a starting point for a Flutter application.
+By doing this project you can learn:
+##  To build simple flutter apps
+##  Work with Images
+##  Add App Icons
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
