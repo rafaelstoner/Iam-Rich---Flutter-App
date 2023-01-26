@@ -1,6 +1,6 @@
 # iamrich
 <div align="center">
-<img src="/app.PNG"></img>
+<img src="app.png"></img>
 </div>
 A new simple Flutter project.
 
